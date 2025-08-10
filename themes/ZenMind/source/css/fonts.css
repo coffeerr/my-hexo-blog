@@ -1,0 +1,19 @@
+/* JetBrains Mono */
+@font-face {
+    font-family: "JetBrains Mono";
+    font-style: italic;
+    font-weight: 400;
+    src: local("JetBrains Mono"),
+         local("JetBrainsMono-Italic"),
+         url("../fonts/JetBrainsMono-Italic[wght].ttf") format("truetype");
+}
+
+/* Ubuntu Mono */
+@font-face {
+    font-family: "Ubuntu Mono";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Ubuntu Mono"),
+         local("UbuntuMono-Regular"),
+         url("../fonts/UbuntuMono-BoldItalic.ttf") format("truetype");
+} 
